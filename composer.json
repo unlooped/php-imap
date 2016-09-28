@@ -1,5 +1,5 @@
 {
-    "name": "webeith/php-imap",
+    "name": "unlooped/webeith_php-imap",
     "description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
     "keywords": ["PHP", "IMAP", "mail"],
     "homepage": "https://github.com/webeith/php-imap",
