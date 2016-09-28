@@ -1,6 +1,6 @@
 {
     "name": "unlooped/webeith_php-imap",
-    "description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
+    "description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension - Forked from: webeith/php-imap",
     "keywords": ["PHP", "IMAP", "mail"],
     "homepage": "https://github.com/webeith/php-imap",
     "license": "LGPL",
